@@ -5,7 +5,7 @@
 
 h1 {
     font-size: 60px;
-    color: whitesmoke;
+    color: black;
 }
 
 button {
@@ -23,4 +23,10 @@ button {
 
 button:hover {
     background-color: #424242;
+}
+
+button:active {
+    background-color: #424242;
+    box-shadow: 0 5px #667;
+    transform: translateY(4px);
 }
