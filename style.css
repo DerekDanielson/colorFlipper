@@ -8,3 +8,19 @@ h1 {
     color: whitesmoke;
 }
 
+button {
+    margin-top: 5%;
+    margin-left: 9%;
+    padding: 20px;
+    font-size: 36px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: #545554;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+button:hover {
+    background-color: #424242;
+}
