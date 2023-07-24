@@ -18,5 +18,5 @@ function changeColor(){
         hexColor += hex[randomNumber()];
     }
     color.textContent = hexColor;
-        document.body.style.backgroundColor = hexColor;
+    document.body.style.backgroundColor = hexColor;
 }
